@@ -49,7 +49,7 @@ A local repo is made using following git command
 
 To create your account, you need to go to [GitHub's website](https://github.com/) and fill out the registration form.
 
-![Screenshot 2022-08-06 at 9.02.43 PM.JPG](https://cdn.hashnode.com/res/hashnode/image/upload/v1659799985079/HfFIcTv7v.JPG?auto=compress,format&format=webp align="center")
+<img alt="GitHub Homepage" src="image.png" />
 
 # **Remote repository**
 
@@ -57,13 +57,13 @@ A Remote Repo is made on GitHub using following steps
 
 Step 1: Go to [this link](https://github.com/new) Click on new
 
-![Screenshot 2022-08-08 at 10.03.44 AM.JPG](https://cdn.hashnode.com/res/hashnode/image/upload/v1659933467542/bo3vetwZP.JPG?auto=compress,format&format=webp align="center")
+<img alt="GitHub Homepage" src="img2.avif" />
 
 Step 2: Click on create repository
 
 Give your repository a name, and description(optional), choose if you want to make it a public or a private repo(only you and the people you give access can see a private repo), and you can also add a readme and a license if you want. Otherwise, leave all that options as it is and click create repository.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736184412290/91e5b4f6-eb49-449f-99fb-c262b11940d3.png align="center")
+<img alt="GitHub Homepage" src="img3.png" />
 
 Now your Remote repository will be created.
 
@@ -84,7 +84,7 @@ for further details on these topics please visit [this website](https://docs.cha
 
 # Workflow
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736187344897/3f521e33-e812-48f8-863d-48e4f85e8f0d.png align="center")
+<img alt="GitHub Homepage" src="img4.png" />
 
 # Writing Commit Messages
 
